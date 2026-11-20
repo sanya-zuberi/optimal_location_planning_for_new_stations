@@ -1,0 +1,10 @@
+region,supply_gap,load_per_kw,customer_reach,supply_gap_norm,load_per_kw_norm,customer_reach_norm,score,rank,stations,evidence,lat,lon
+London,2.7,1.03,1038.4,1.0,0.77,0.14,73.6,1,5,Higher (3+ stations),51.51,-0.13
+Wales,-1.0,1.14,2581.0,0.34,1.0,1.0,73.4,2,1,Low (one station),52.3,-3.7
+South West,1.53,0.91,1484.33,0.79,0.52,0.39,60.0,3,3,Higher (3+ stations),50.9,-3.5
+Midlands,1.99,0.88,1033.4,0.87,0.44,0.13,55.3,4,5,Higher (3+ stations),52.6,-1.8
+Yorkshire & Humber,0.09,0.91,1873.5,0.53,0.51,0.6,53.9,5,2,Medium (two stations),53.8,-1.2
+North East,0.63,0.86,1479.33,0.63,0.4,0.38,48.8,6,3,Higher (3+ stations),54.9,-1.6
+South East,-1.07,0.81,1212.25,0.32,0.29,0.23,29.1,7,4,Higher (3+ stations),51.2,-0.5
+Scotland,-2.0,0.67,1489.67,0.16,0.0,0.39,14.0,8,3,Higher (3+ stations),56.5,-4.2
+North West,-2.87,0.7,796.71,0.0,0.07,0.0,2.7,9,7,Higher (3+ stations),53.9,-2.6
